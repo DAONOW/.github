@@ -1,5 +1,12 @@
 # DAONOW
 
+# 🧠 DAONOW: Gateway to a Decentralized Autonomous Organization
+
+![License](https://img.shields.io/badge/license-MIT-blue.svg)
+![DAO Framework](https://img.shields.io/badge/framework-thirdweb-orange.svg)
+![AI Builder](https://img.shields.io/badge/built%20with-GPT%20Builder-ff69b4.svg)
+
+
 DAONOW is a collection of source code for the creation of DAO<br />
 DAONOW is a platform dedicated to the development and management of Decentralized Autonomous Organizations (DAOs), emphasizing the "code is law" philosophy. This approach ensures trustless, immutable exchanges by embedding governance and operational rules directly into smart contracts, minimizing the need for traditional trust mechanisms. DAOs play a crucial role in decentralized finance (DeFi) and blockchain ecosystems, enabling collective decision-making and resource management in a transparent, secure manner​​.
 
@@ -10,11 +17,6 @@ companion source code collections include but not limited too<br />
 
 new: gpt DAONOW builder agent
 
-# 🧠 DAONOW: An AI-Powered Gateway to Decentralized Autonomous Organizations
-
-![License](https://img.shields.io/badge/license-MIT-blue.svg)
-![DAO Framework](https://img.shields.io/badge/framework-thirdweb-orange.svg)
-![AI Builder](https://img.shields.io/badge/built%20with-GPT%20Builder-ff69b4.svg)
 
 > **DAONOW** is a next-generation platform that enables anyone to create, deploy, and manage decentralized organizations using artificial intelligence and cutting-edge blockchain technology.
 
