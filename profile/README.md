@@ -79,6 +79,4 @@ Use the DAONOW GPT App to start your DAO with simple text prompts.
 ```bash
 git clone https://github.com/DAONOW/thirdwebdao.git
 cd thirdwebdao
-npm install
-npm run dev
 ```
